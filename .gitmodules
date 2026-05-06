@@ -52,3 +52,9 @@
 [submodule "where-is-my-sddm-theme-git"]
 	path = where-is-my-sddm-theme-git
 	url = https://aur.archlinux.org/where-is-my-sddm-theme-git.git
+[submodule "ganttproject"]
+	path = ganttproject
+	url = https://aur.archlinux.org/ganttproject.git
+[submodule "python-boltons"]
+	path = python-boltons
+	url = https://aur.archlinux.org/python-boltons.git
