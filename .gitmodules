@@ -1,0 +1,54 @@
+[submodule "cairo-clock"]
+	path = cairo-clock
+	url = https://aur.archlinux.org/cairo-clock.git
+[submodule "carbonyl-bin"]
+	path = carbonyl-bin
+	url = https://aur.archlinux.org/carbonyl-bin.git
+[submodule "i3a"]
+	path = i3a
+	url = https://aur.archlinux.org/i3a.git
+[submodule "jed"]
+	path = jed
+	url = https://aur.archlinux.org/jed.git
+[submodule "lib32-libmpcdec"]
+	path = lib32-libmpcdec
+	url = https://aur.archlinux.org/lib32-libmpcdec.git
+[submodule "lib32-libtiff4"]
+	path = lib32-libtiff4
+	url = https://aur.archlinux.org/lib32-libtiff4.git
+[submodule "lib32-opencore-amr"]
+	path = lib32-opencore-amr
+	url = https://aur.archlinux.org/lib32-opencore-amr.git
+[submodule "libpng-apng"]
+	path = libpng-apng
+	url = https://aur.archlinux.org/libpng-apng.git
+[submodule "meta-package-manager-git"]
+	path = meta-package-manager-git
+	url = https://aur.archlinux.org/meta-package-manager-git.git
+[submodule "perl-http-body"]
+	path = perl-http-body
+	url = https://aur.archlinux.org/perl-http-body.git
+[submodule "python-bs4"]
+	path = python-bs4
+	url = https://aur.archlinux.org/python-bs4.git
+[submodule "python-pycxx"]
+	path = python-pycxx
+	url = https://aur.archlinux.org/python-pycxx.git
+[submodule "python-pysvn"]
+	path = python-pysvn
+	url = https://aur.archlinux.org/python-pysvn.git
+[submodule "python-svneverever"]
+	path = python-svneverever
+	url = https://aur.archlinux.org/python-svneverever.git
+[submodule "solcl"]
+	path = solcl
+	url = https://aur.archlinux.org/solcl.git
+[submodule "tkpacman"]
+	path = tkpacman
+	url = https://aur.archlinux.org/tkpacman.git
+[submodule "vim-latexsuite-git"]
+	path = vim-latexsuite-git
+	url = https://aur.archlinux.org/vim-latexsuite-git.git
+[submodule "where-is-my-sddm-theme-git"]
+	path = where-is-my-sddm-theme-git
+	url = https://aur.archlinux.org/where-is-my-sddm-theme-git.git
